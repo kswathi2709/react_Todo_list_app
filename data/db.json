@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "task": "Do Course",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "task": "See news",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "task": "Do cooking",
+      "checked": true
+    },
+    {
+      "id": 5,
+      "task": "Read Books",
+      "checked": true
+    },
+    {
+      "id": 6,
+      "task": "Do cooking",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "task": "Read Books",
+      "checked": false
+    },
+    {
+      "id": 8,
+      "task": "Do cooking",
+      "checked": false
+    }
+  ]
+}
